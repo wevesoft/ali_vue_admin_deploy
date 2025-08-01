@@ -1,6 +1,6 @@
 {
   "development": {
-    "apiBase": "http://localhost:8082",
+    "apiBase": "http://localhost:8080",
     "apiTimeout": 5000,
     "enableDebug": true
   },
