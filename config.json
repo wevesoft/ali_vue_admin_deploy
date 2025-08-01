@@ -1,6 +1,6 @@
 {
   "development": {
-    "apiBase": "http://localhost:8080",
+    "apiBase": "http://localhost:8082",
     "apiTimeout": 5000,
     "enableDebug": true
   },
@@ -10,7 +10,7 @@
     "enableDebug": true
   },
   "production": {
-    "apiBase": "https://api.wevesoft.com",
+    "apiBase": "http://dev.deallow.kr:8080",
     "apiTimeout": 15000,
     "enableDebug": false
   }
