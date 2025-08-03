@@ -1,6 +1,6 @@
 {
   "development": {
-    "apiBase": "https://localhost:8443",
+    "apiBase": "https://localhost:9443",
     "apiTimeout": 5000,
     "enableDebug": true
   },
@@ -10,7 +10,7 @@
     "enableDebug": true
   },
   "production": {
-    "apiBase": "https://dev.deallow.kr:8443",
+    "apiBase": "https://dev.deallow.kr:9443",
     "apiTimeout": 15000,
     "enableDebug": false
   }
