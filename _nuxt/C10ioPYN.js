@@ -1,1 +1,0 @@
-import{q as t}from"./sfEymhxo.js";const i={__name:"index",setup(a){if(window.location.hostname==="wevesoft.github.io"){const o=window.location.pathname.split("/")[1]||"",n=o?`/${o}/login`:"/login";t(n)}else t("/login");return(o,n)=>null}};export{i as default};
