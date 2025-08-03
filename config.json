@@ -1,17 +1,20 @@
 {
   "development": {
-    "apiBase": "http://localhost:9443",
+    "apiBase": "https://localhost:9443",
     "apiTimeout": 5000,
-    "enableDebug": true
+    "enableDebug": true,
+    "enableApiLogs": true
   },
   "staging": {
     "apiBase": "https://stg-api.wevesoft.com",
     "apiTimeout": 10000,
-    "enableDebug": true
+    "enableDebug": true,
+    "enableApiLogs": true
   },
   "production": {
     "apiBase": "https://dev.deallow.kr:9443",
     "apiTimeout": 15000,
-    "enableDebug": false
+    "enableDebug": false,
+    "enableApiLogs": true
   }
 } 
