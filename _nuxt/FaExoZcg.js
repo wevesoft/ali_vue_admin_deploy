@@ -1,0 +1,1 @@
+import{q as o}from"./BU41U_Uj.js";const i={__name:"index",setup(e){return window.location.hostname==="wevesoft.github.io"?(console.log("🌐 GitHub Pages 리다이렉트: /login"),o("/login")):(console.log("🏠 로컬 환경 리다이렉트: /login"),o("/login")),(n,t)=>null}};export{i as default};
